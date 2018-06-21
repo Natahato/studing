@@ -1,4 +1,4 @@
-package cycle_For_Foeach;
+package cycle_for_foeach;
 
 public class If {
     public static void main(String[] args) {

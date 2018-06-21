@@ -1,4 +1,4 @@
-package cycle_For_Foeach;
+package cycle_for_foeach;
 
 public class SmthFor {
 

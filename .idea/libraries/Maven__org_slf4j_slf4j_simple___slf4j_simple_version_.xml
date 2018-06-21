@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.slf4j:slf4j-simple:${slf4j-simple.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/${slf4j-simple.version}/slf4j-simple-${slf4j-simple.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/${slf4j-simple.version}/slf4j-simple-${slf4j-simple.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/${slf4j-simple.version}/slf4j-simple-${slf4j-simple.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
